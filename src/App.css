@@ -1,0 +1,27 @@
+input[type='text'] {
+  width: 80%;
+  padding: 12px;
+  margin: 8px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+input[type='button'] {
+  padding: 12px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: white;
+  background-color: grey;
+}
+
+input:focus {
+  outline: none !important;
+  border-color: grey;
+  box-shadow: 0 0 10px grey;
+}
