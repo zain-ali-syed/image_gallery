@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive React Image Gallery with image search functionality and consuming the Pixabay API.
+
+A demo can be seen at:
+http://imagegallery-zainsyed.surge.sh/
 
 ## Available Scripts
 
